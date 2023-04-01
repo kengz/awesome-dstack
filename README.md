@@ -1,4 +1,4 @@
-# Awesome dstack[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome dstack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome [dstack.ai](https://docs.dstack.ai) resources
 
 ## Contents
